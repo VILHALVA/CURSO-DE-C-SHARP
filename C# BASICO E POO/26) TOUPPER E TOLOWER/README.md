@@ -31,5 +31,3 @@ Assim como com `ToUpper`, a função `ToLower` é útil para comparações de st
 
 ## Considerações Finais
 As funções `ToUpper` e `ToLower` em C# são ferramentas úteis para converter strings em letras maiúsculas ou minúsculas, facilitando a comparação de strings e a padronização da formatação do texto. Lembre-se de que essas funções criam novas strings com os caracteres convertidos, não alterando a string original. Certifique-se de atribuir o resultado a uma nova variável, se desejar preservar a string original.
-
-Espero que este artigo tenha ajudado a esclarecer o uso de `ToUpper` e `ToLower` em C#. Se você tiver mais perguntas ou precisar de exemplos adicionais, fique à vontade para perguntar.
