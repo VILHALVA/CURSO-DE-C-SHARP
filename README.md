@@ -2,15 +2,8 @@
 👨‍⚖️C# É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=C#)
-
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://learn.microsoft.com/en-us/dotnet/csharp/) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL50rZONmv8ZTLPRyqb37EoPlBpSmVBJWX&si=-2NSicdz2Li4cvM_)
-
-<img src="https://1.bp.blogspot.com/-lo1R-GNxZO4/V0IfUC-yM5I/AAAAAAAABMc/Ub2bNv1UiH0DKRKfW-oWcSayoqE-Cv1xgCLcB/s1600/imagcsharpalgc.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
