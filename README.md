@@ -891,10 +891,6 @@ Esses quatro pilares da POO são fundamentais para criar sistemas de software be
    - C#: C# é geralmente associado a tempos de desenvolvimento mais curtos devido à sua sintaxe simplificada e ao gerenciamento automático de memória, o que pode acelerar o desenvolvimento de software.
    - C++: C++ pode exigir mais tempo de desenvolvimento devido à necessidade de gerenciar manualmente a alocação de memória e a complexidade da sintaxe.
 
- 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)]() 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)]()
-
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO "BRUNO SANTOS"](https://youtube.com/playlist?list=PL50rZONmv8ZTLPRyqb37EoPlBpSmVBJWX&si=-2NSicdz2Li4cvM_)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
