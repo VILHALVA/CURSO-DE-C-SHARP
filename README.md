@@ -102,7 +102,6 @@
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [VEJA A SINTAXE](./SINTAXE.md)
-- [CURSO DE C# POO](https://github.com/VILHALVA/CURSO-DE-C-SHARP-POO)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:C-SHARP)
 
 
