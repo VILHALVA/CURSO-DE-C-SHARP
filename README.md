@@ -101,6 +101,7 @@
 - [CURSO CRIADO PELO "BRUNO SANTOS"](https://youtube.com/playlist?list=PL50rZONmv8ZTLPRyqb37EoPlBpSmVBJWX&si=-2NSicdz2Li4cvM_)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:C-SHARP)
 
